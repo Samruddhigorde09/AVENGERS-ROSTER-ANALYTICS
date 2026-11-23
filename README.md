@@ -151,7 +151,5 @@ avengers-roster-analytics/
 
 ## Author
 
-**[Your Name]** - Data Analyst
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/) | [Email](mailto:your.email@example.com)
-
+Samruddhi Gorde - Data Analyst
 Feedback and suggestions are welcome.
