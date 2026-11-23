@@ -10,7 +10,6 @@ An end-to-end data analytics project that studies **who joins the Avengers, who 
 
 | Home | Roster Overview | Mortality & Resurrection |
 |---|---|---|
-| ![Home](images/home.png) | ![Roster Overview](images/roster_overview.png) | ![Mortality](images/mortality.png) |
 
 ---
 
